@@ -6,4 +6,3 @@ Use Deep Neural networks to built a classifier for Fashion MNIST Dataset using 2
 4. use 2 RELu layers with # nodes = 150,50 respectively
 
 
-From Hands–On Machine Learning with Scikit–Learn and TensorFlow Book
